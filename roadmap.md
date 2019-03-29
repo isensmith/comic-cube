@@ -1,6 +1,6 @@
 # COMIC-CUBE ROADMAP
 
-## Milestone: Mockup and Marketing
+## Milestone: [Mockup and Marketing](https://github.com/isensmith/comic-cube/milestone/1)
 - Complete HTML mockup and marketing site
 - For the purpose of demoing visually the concept for both comics buyers (the app side) and the comic store owners (the web portal side)
 
