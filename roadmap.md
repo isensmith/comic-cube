@@ -4,7 +4,7 @@
 - Complete HTML mockup and marketing site
 - For the purpose of demoing visually the concept for both comics buyers (the app side) and the comic store owners (the web portal side)
 
-## Milestone: Prototype
+## Milestone: [Prototype](https://github.com/isensmith/comic-cube/milestone/2)
 - Secure reliable data source
 
 ## Milestone: MVP
