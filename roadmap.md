@@ -7,7 +7,7 @@
 ## Milestone: [Prototype](https://github.com/isensmith/comic-cube/milestone/2)
 - Secure reliable data source
 
-## Milestone: MVP
+## Milestone: [MVP](https://github.com/isensmith/comic-cube/milestone/3)
 - Approach local comic shops to see if they’d be willing to alpha test (for one user)
 - Finalize UI
 
