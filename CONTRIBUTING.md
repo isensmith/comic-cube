@@ -7,9 +7,13 @@ This project and everyone participating in it is governed by the [Atom Code of C
 > **Note:** Please don't file an issue to ask a question. You'll get faster results by using the resources below.
 
 [You can email me directly](mailto:isensmith@gmail.com), or:
+
 #Slack# is the main method of communication for collaboration at the moment. Join the EugeneTech slack channel where i'm @ren
+
 Otherwise:
+
 [Twitter](http://twitter.com/isensmith)
+
 Hangouts and Discord also available if that's what you've got, email me.
 
 ## How Can I Contribute?
