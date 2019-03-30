@@ -8,7 +8,7 @@ This project and everyone participating in it is governed by the [Atom Code of C
 
 [You can email me directly](mailto:isensmith@gmail.com), or:
 
-#Slack# is the main method of communication for collaboration at the moment. Join the EugeneTech slack channel where i'm @ren
+**Slack** is the main method of communication for collaboration at the moment. Join the EugeneTech slack channel where i'm @ren
 
 Otherwise:
 
