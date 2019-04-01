@@ -21,7 +21,7 @@ We need programmers who understand infrastructure and can forge the path forward
 
 [http://comic-cube.com/interface](http://comic-cube.com/interface) - This is a rough html mock up of the Comic Buyer’s app side.
 
-[https://calendar.google.com/calendar/b/5?cid=Y29taWNjdWJlYXBwQGdtYWlsLmNvbQ](Google Calendar) - Add this google calendar to keep up with events and scheduled check-ins
+[Google Calendar](https://calendar.google.com/calendar/b/5?cid=Y29taWNjdWJlYXBwQGdtYWlsLmNvbQ) - Add this google calendar to keep up with events and scheduled check-ins
 
 ## Understand the jargon
 "**Box**" - The box at your local retailer where they will hold things you’ve specified they order and reserve for you until you come to purchase and take them home. 
